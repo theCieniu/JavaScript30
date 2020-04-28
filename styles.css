@@ -1,0 +1,51 @@
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100vw;
+overflow-x: hidden;
+    --darkaccent: #222222;
+  --lightaccent: #aaaaaa;
+  --bcgcolor: #eeeeee;
+  font-family: ;
+  color: var(--darkaccent);
+}
+
+img {
+  width: 100%;
+}
+
+/*======= A LINK DEFAULT CSS ===========*/
+a:link, a:visited {
+  color: (internal value);
+  text-decoration: none;
+  cursor: auto;
+}
+
+a:link:active, a:visited:active {
+  color: (internal value);
+}
+
+
+/*======= NAVIGATION ===========*/
+
+
+
+/*======= SECTION ===========*/
+/*======= SECTION ===========*/
+/*======= SECTION ===========*/
+/*======= SECTION ===========*/
+/*======= SECTION ===========*/
+/*======= SECTION ===========*/
+
+
+
+/*======= MEDIA QUERY ===========*/
+@media (min-width:700px) {
+/*======= ================= ===========*/
+/*======= ================== ===========*/
+}
